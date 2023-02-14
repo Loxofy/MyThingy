@@ -8,13 +8,13 @@
 }
 
 body {
-  background: #343541;
+  background: #30335a;
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  background: #343541;
+  background: #30335a;
 
   display: flex;
   flex-direction: column;
@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #40414F;
+  background: #171e88;
 }
 
 .chat {
@@ -130,12 +130,11 @@ form {
 textarea {
   width: 100%;
 
-  color: #000000;
+  color: #ffffff;
   font-size: 20px;
 
   padding: 10px;
   background: transparent;
-  outline: 1;
 }
 
 button {
