@@ -14,7 +14,7 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: #30335a;
+  background: #ffffff;
 
   display: flex;
   flex-direction: column;
@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #afafb4;
+  background: #2b2a2a;
 }
 
 .chat {
@@ -121,7 +121,10 @@ form {
 
   display: flex;
   border-radius: 25px;
-  border: 2;
+  border: 2px solid black;
+  outline: 1;
+  outline-style: solid;
+  outline-color: solid black;
   flex-direction: row;
   gap: 10px;
 }
