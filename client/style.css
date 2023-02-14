@@ -113,13 +113,16 @@ body {
 }
 
 form {
-  width: 100%;
+  width: 60%;
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
   background: #ffffff;
 
   display: flex;
+  border-radius: 10px;
+  border: 1;
+  outline: 1;
   flex-direction: row;
   gap: 10px;
 }
@@ -132,8 +135,6 @@ textarea {
 
   padding: 10px;
   background: transparent;
-  border-radius: 10px;
-  border: 1;
   outline: 1;
 }
 
