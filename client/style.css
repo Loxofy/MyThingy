@@ -136,8 +136,8 @@ textarea {
   font-size: 20px;
 
   outline: none;
-  padding: 10px;
-  background: transparent;
+  /*padding: 10px;*/
+  /*background: transparent;*/
 }
 
 button {
