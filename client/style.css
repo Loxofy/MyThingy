@@ -135,6 +135,7 @@ textarea {
   color: #ffffff;
   font-size: 20px;
 
+  outline: none;
   padding: 10px;
   background: transparent;
 }
