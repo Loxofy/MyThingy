@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #30335a;
+  background: #ffffff;
 }
 
 #app {
@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #171e88;
+  background: #afafb4;
 }
 
 .chat {
@@ -117,12 +117,11 @@ form {
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
-  background: #3a0450;
+  background: #2b2a2a;
 
   display: flex;
-  border-radius: 20px;
-  border: 1;
-  outline: 1;
+  border-radius: 25px;
+  border: 2;
   flex-direction: row;
   gap: 10px;
 }
